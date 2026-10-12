@@ -6,7 +6,7 @@
 
 前往 [Release 发布页](https://github.com/leiyifanfn/dayflow/releases) 下载：
 
-- Windows PC：DayFlow Setup 1.1.1.exe
+- Windows PC：DayFlow-Setup-1.1.1.exe
 - 项目空结构：dayflow-project-structure-v1.1.1.zip
 - 文件校验：SHA256SUMS.txt
 
@@ -27,3 +27,4 @@ project-structure 中的所有文件均为空，占位展示工程结构，不�
 ## 校验
 
 下载 SHA256SUMS.txt，用文件的 SHA256 值核对安装包和结构 ZIP 是否与官方发布一致。
+
